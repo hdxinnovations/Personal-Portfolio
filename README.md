@@ -15,5 +15,4 @@ Check out the live demo here: [https://your-portfolio-link.com](https://gouthamr
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
 ---
