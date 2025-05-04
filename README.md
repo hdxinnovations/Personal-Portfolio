@@ -6,7 +6,19 @@ Welcome to my personal developer portfolio website built with HTML, CSS, and Jav
 
 ## 📸 Demo
 
-Check out the live demo here: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+Check out the live demo here: [https://your-portfolio-link.com](https://gouthamraj2004.github.io/Personal-Portfolio/)
+
+---
+
+## 📁 Features
+
+- 🎥 Full-screen background video and animated blackhole effect
+- 🧑‍💻 Interactive **Hero Section** with call-to-action
+- 💼 Stylish **Projects Section** with preview videos and project descriptions
+- 🧠 **Skills Section** split into Designer and Coder categories
+- 👤 About section with personal photo and education timeline
+- 💫 Smooth animations and gradient effects
+- 📱 Fully responsive design
 
 ---
 
